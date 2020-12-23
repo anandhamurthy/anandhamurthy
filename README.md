@@ -1,5 +1,7 @@
 ### Hi there, I'm Anandha Murthy B👋
 
+
+
 ## I'm a Learner, Student, Developer, and Teacher!
 
 <!--
@@ -25,13 +27,18 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/Anandha_Murthy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Anandha_Murthy]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AnandhaMurthy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="AnandhaMurthy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AnandhaMurthy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AnandhaMurthy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 
 [![Anandha Murthy B's github stats](https://github-readme-stats.vercel.app/api?username=anandhamurthy)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[twitter]: https://twitter.com/Anandha_Murthy
+[youtube]: https://youtube.com/channel/UC4I8cGb9uL_IIJ7tfjxsu0A
+[instagram]: https://instagram.com/anandha_murthy_b
+[linkedin]: https://linkedin.com/in/anandha-murthy-baskar-215328173
